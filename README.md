@@ -1,8 +1,11 @@
-### Olá, eu sou a Bárbara Marchi, estudante de Análise e Desenvolvimento de Sistemas
+### Olá, eu sou a Bárbara 🙋‍♀️
+
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio, em busca de uma oportunidade para consolidar e aprimorar meus conhecimentos em programação.
 
 ##
 
-💻 Atualmente estou aprendendo as linguagens de programação:
+💻 Atualmente estou codando nas  linguagens de programação:
 <div style="display: inline_block"<br>
  <img align="center" alt="Rafa-Js" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height= "30"; width= "30">
  <img align="center" alt="Rafa-HTML" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height= "30"; width= "30">
