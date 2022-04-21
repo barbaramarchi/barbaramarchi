@@ -1,4 +1,4 @@
-### Olá, eu sou a Bárbara Marchi, estudante de Análise e Desenvolvimento de Sistemas:
+### Olá, eu sou a Bárbara Marchi, estudante de Análise e Desenvolvimento de Sistemas
 
 💻 Atualmente estou aprendendo as linguagens de programação:
 <div style="display: inline_block"<br>
