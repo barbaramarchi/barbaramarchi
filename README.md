@@ -7,9 +7,9 @@
 
 💻 Atualmente estou codando nas  linguagens de programação:
 <div style="display: inline_block"<br>
- <img align="center" alt="Rafa-Js" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height= "30"; width= "30">
- <img align="center" alt="Rafa-HTML" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height= "30"; width= "30">
- <img align="center" alt="Rafa-CSS" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height= "30"; width= "30">
+ <img align="center" alt="babi-Js" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height= "30"; width= "30">
+ <img align="center" alt="babi-HTML" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height= "30"; width= "30">
+ <img align="center" alt="babi-CSS" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height= "30"; width= "30">
 </div>
 
 ##
