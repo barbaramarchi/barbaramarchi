@@ -5,11 +5,18 @@
 
 ##
 
-💻 Atualmente estou codando nas  linguagens de programação:
+<div align="center">
+  <a href="https://github.com/barbaramarchi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaramarchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaramarchi&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+ 
 <div style="display: inline_block"<br>
- <img align="center" alt="babi-Js" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height= "30"; width= "30">
  <img align="center" alt="babi-HTML" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height= "30"; width= "30">
  <img align="center" alt="babi-CSS" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height= "30"; width= "30">
+  <img align="center" alt="babi-Js" altura="20" largura="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height= "30"; width= "30">
 </div>
 
 ##
